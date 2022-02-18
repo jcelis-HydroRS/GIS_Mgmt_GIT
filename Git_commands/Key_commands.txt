@@ -1,1 +1,8 @@
+# Author : Jorge A. Celis (jcelis@ou.edu)
+# Date: February 18, 2022
+
 This file shows some of the key commands
+
+
+$ git add mars.txt
+$ git commit -m "Add concerns about effects of Mars' moons on Wolfman"
